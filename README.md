@@ -1,0 +1,1 @@
+A series of PDF distilled from 175,000 Lean files that prove the generalized Riemann Hypothesis (https://math.mit.edu/~drew/grh/). Each round successively expands the write-up. Donate your tokens and increase the natural-language understanding so we can at least have it in readable format! 
