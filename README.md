@@ -1,6 +1,8 @@
 ### Riemann Review
 
-A series of PDF distilled from 175,000 Lean files that prove the generalized Riemann Hypothesis (https://math.mit.edu/~drew/grh/). Each round successively expands the write-up. Donate your tokens and increase the natural-language understanding so we can at least have it in readable format! Each round with Astra 6 High Reasoning will produce about 20-50 pages more. Put this in perspective given that 250,000 is Alpöge's estimate for natural-language estimate; some other estimates put this to a number as long as 5k though: https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Discussion.3A.20Alp.C3.B6ge.20Proves.20the.20Riemann.20Hypothesis/near/642372869
+A series of PDF distilled from 175,000 Lean files that prove the generalized Riemann Hypothesis (https://math.mit.edu/~drew/grh/). Each round successively expands the write-up. Donate your tokens and increase the natural-language understanding so we can at least have it in readable format! Each round with Astra 6 High Reasoning will produce about 20-50 pages more. Put this in perspective given that 250,000 is Alpöge's estimate for natural-language estimate; some other estimates put this to a number as long as 5k though: https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Discussion.3A.20Alp.C3.B6ge.20Proves.20the.20Riemann.20Hypothesis/near/642372869.
+
+**Contribute your tokens, take the last version and run it with the last prompt and submit a PR**
 
 Starting environment is local Claude/Codex project folder access to the Lean files (see link above). If the prompt changes, bumpt it:
 
